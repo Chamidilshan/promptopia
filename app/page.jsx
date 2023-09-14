@@ -14,7 +14,7 @@ const Home = () =>{
          <p className="desc text-center">
             Promptopia is a community of writers, artists, and creatives who use AI to generate prompts for their work.
          </p>
-
+ 
 
          <Feed/>
 
